@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">poopapps</string>
+    <string name="titulo">FORMULARIO</string>
+    <string name="name">Nombre:</string>
+    <string name="email">Email</string>
+    <string name="guardar">Guardar</string>
+    <string name="documento">cedula</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="play">Play</string>
+    <string name="nadar">Nadar</string>
+    <string name="cine">Cine</string>
+</resources>
